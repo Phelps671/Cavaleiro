@@ -17,7 +17,7 @@ body {
     }
     .middle {
       background-size: cover;
-      background-position: center;
+      display: flex;
       height: 800px;
     }
      .container {
