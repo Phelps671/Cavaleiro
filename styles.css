@@ -26,6 +26,7 @@ body {
     }
       .container2 {
       text-align: center;
+      background-position: center;
     }
     .container button {
       margin: 10px;
