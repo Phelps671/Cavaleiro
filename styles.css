@@ -25,8 +25,10 @@ body {
       display: flex;
       background-position: center;
     }
+
       .container2 {
       text-align: center;
+      display: flex;
       background-position: center;
     }
     .container button {
