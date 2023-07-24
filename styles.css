@@ -18,6 +18,14 @@ body {
       background-repeat: no-repeat;
       background-size: cover;
     }
+    .rus {
+      background-size: cover;
+      background-position: center;
+      height: 800px;
+      background-image: url('rus.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
     .middle {
       background-size: cover;
       height: 800px;
