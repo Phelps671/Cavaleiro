@@ -47,7 +47,6 @@ body {
     .container button {
       margin: 10px;
       border-radius: 10px 10px 10px 10px;
-      opacity: 0.6;
       background-color: #000000;
       color: white;
       font-size: 26px;
