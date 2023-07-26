@@ -2,7 +2,10 @@ body {
       margin: 0;
       padding: 0;
     }
-
+    .bottom {
+      background-color: black;
+      height: 100px;
+    }
    .top {
       background-color: black;
       height: 120px;
@@ -50,10 +53,6 @@ body {
       color: white;
       font-size: 26px;
       color: #F6EDBB;
-    }
-    .bottom {
-      background-color: black;
-      height: 100px;
     }
     .box {
       flex: 1;
