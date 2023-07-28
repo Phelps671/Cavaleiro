@@ -116,4 +116,28 @@ body {
       font-size: 18px;
       background-image: url('rus2.jpg');
      }
+    .sub-box6 {
+      width: 91%; /* Ocupar toda a largura da div pai */
+      height: 50%; /* Dividir o espaço em duas partes iguais */
+      top: 25%; /* Posicionar a primeira sub-div na metade da altura da div pai */
+      left: 0; /* Alinhar à esquerda */
+      background-color: #87CEEB; /* Cor de fundo (pode ser alterada) */
+      border: 20px solid white; /* Adicionamos uma borda para melhor visualização */
+      text-align: center;
+      line-height: 50vh;
+      font-size: 18px;
+      background-image: url('rus2.jpg');
+     }    
+    .sub-box7 {
+      width: 91%; /* Ocupar toda a largura da div pai */
+      height: 50%; /* Dividir o espaço em duas partes iguais */
+      top: 25%; /* Posicionar a primeira sub-div na metade da altura da div pai */
+      left: 0; /* Alinhar à esquerda */
+      background-color: #87CEEB; /* Cor de fundo (pode ser alterada) */
+      border: 20px solid white; /* Adicionamos uma borda para melhor visualização */
+      text-align: center;
+      line-height: 50vh;
+      font-size: 18px;
+      background-image: url('rus2.jpg');
+     }
 
