@@ -68,7 +68,7 @@ body {
     }
     .container3 {
       width: 100%;
-      height: 100vh; /* 100% da altura da janela do navegador */
+      height: 80vh; /* 100% da altura da janela do navegador */
       display: flex;
     }
     .box2 {
@@ -126,7 +126,7 @@ body {
       text-align: center;
       line-height: 50vh;
       font-size: 18px;
-      background-image: url('rus2.jpg');
+      background-image: url('a1.png');
      }    
     .sub-box7 {
       width: 91%; /* Ocupar toda a largura da div pai */
