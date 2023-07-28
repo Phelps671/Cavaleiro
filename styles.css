@@ -67,7 +67,16 @@ body {
     }
     .box2 {
       flex: 1;
-      height: 50vh; /* 50% da altura da janela do navegador */
+      height: 50vh; /* 80% da altura da janela do navegador */
+      border: 1px solid #000;
+      box-sizing: border-box;
+      text-align: center;
+      line-height: 50vh;
+      font-size: 24px;
+    }
+.box3 {
+      flex: 1;
+      height: 50vh; /* 35% da altura da janela do navegador */
       border: 1px solid #000;
       box-sizing: border-box;
       text-align: center;
