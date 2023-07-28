@@ -1,60 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Página com 4 divs de tamanho fixo</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      width: 100%;
-      height: 100vh; /* 100% da altura da janela do navegador */
-      display: flex;
-    }
-    .box {
-      flex: 1;
-      height: 50vh; /* 50% da altura da janela do navegador */
-      border: 1px solid #000;
-      box-sizing: border-box;
-      text-align: center;
-      line-height: 50vh;
-      font-size: 24px;
-      position: relative; /* Adicionamos essa propriedade para que as divs internas se posicionem em relação a esta div */
-    }
-    .sub-box {
-      width: 100%; /* Ocupar toda a largura da div pai */
-      height: 50%; /* Dividir o espaço em duas partes iguais */
-      top: 25%; /* Posicionar a primeira sub-div na metade da altura da div pai */
-      left: 0; /* Alinhar à esquerda */
-      background-color: #87CEEB; /* Cor de fundo (pode ser alterada) */
-      box-sizing: border-box;
-      border: 1px solid #000; /* Adicionamos uma borda para melhor visualização */
-      text-align: center;
-      line-height: 50vh;
-      font-size: 18px;
-      background-image: url('rus2.jpg');
-      margin: 1;
-      padding: 1;
-    }
-  </style>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-  <div class="container">
-    <div class="box" style="background-image: url('cavalos.png');">
-    </div>
-    <div class="box" style="background-color: #FFA500;">
-      <div class="sub-box"></div>
-      <div class="sub-box"></div>
-    </div>
-    <div class="box" style="background-color: #FF6347;">
-      <div class="sub-box"></div>
-      <div class="sub-box"></div>
-    </div>
-    <div class="box" style="background-color: #FF69B4;">
-      <div class="sub-box"></div>
-      <div class="sub-box"></div>
-    </div>
+  <div class="top">
+    <br>
+    <img src="https://tm.ibxk.com.br/2021/04/10/10024334752000.jpg?ims=1200x675" alt="Descrição da imagem" width="150" height="80">
   </div>
+    <div class="middle">
+        <div class="container">
+          <button>Civilizações</button>
+          <button>Como jogar</button>
+          <button>Builds</button>
+        </div>   
+    </div>
+    <div class="container3">
+        <div class="box5" style="background-image: url('cavalos.png');"></div>
+        <div class="box5" style="background-color: #FFA500;">
+          <div class="sub-box5"></div>
+          <div class="sub-box5"></div>
+        </div>
+        <div class="box5" style="background-color: #FF6347;">
+          <div class="sub-box5"></div>
+          <div class="sub-box5"></div>
+        </div>
+        <div class="box5" style="background-color: #FF69B4;">
+          <div class="sub-box5"></div>
+          <div class="sub-box5"></div>
+        </div>
+    </div>
+  <div class="bottom"></div>
 </body>
 </html>
