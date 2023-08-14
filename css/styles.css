@@ -16,7 +16,7 @@ body {
       background-size: cover;
       background-position: center;
       height: 800px;
-      background-image: url('Civilizações.png');
+      background-image: url('images/Civilizações.png');
       background-repeat: no-repeat;
       background-size: cover;
     }
@@ -24,7 +24,7 @@ body {
       background-size: cover;
       background-position: center;
       height: 800px;
-      background-image: url('rus.png');
+      background-image: url('images/rus.png');
       background-repeat: no-repeat;
       background-size: cover;
     }
@@ -114,7 +114,7 @@ body {
       text-align: center;
       line-height: 50vh;
       font-size: 18px;
-      background-image: url('rus2.jpg');
+      background-image: url('images/rus2.jpg');
     }
     .sub2-box5{
       width: 91%; /* Ocupar toda a largura da div pai */
@@ -126,7 +126,7 @@ body {
       text-align: center;
       line-height: 50vh;
       font-size: 18px;
-      background-image: url('a1.png');
+      background-image: url('images/a1.png');
      }    
     .sub3-box5 {
       width: 91%; /* Ocupar toda a largura da div pai */
@@ -138,6 +138,6 @@ body {
       text-align: center;
       line-height: 50vh;
       font-size: 18px;
-      background-image: url('rus2.jpg');
+      background-image: url('images/rus2.jpg');
      }
 
