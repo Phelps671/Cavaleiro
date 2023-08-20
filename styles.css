@@ -1,0 +1,69 @@
+body {
+      margin: 0;
+      padding: 0;
+    }
+
+   .top {
+      background-color: black;
+      height: 120px;
+      text-align: center;
+    }
+    
+    .middleIndex {
+      background-size: cover;
+      background-position: center;
+      height: 800px;
+      background-image: url('images/Civilizações.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    .rus {
+      background-size: cover;
+      background-position: center;
+      height: 800px;
+      background-image: url('images/rus.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    .ingleses{
+      background-size: cover;
+      background-position: center;
+      height: 800px;
+      background-image: url('images/ingleses2.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    .franceses{
+      background-size: cover;
+      background-position: center;
+      height: 800px;
+      background-image: url('images/franceses2.png');
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    .middle {
+      background-size: cover;
+      background-position: center;
+    }
+     .container {
+      display: block;
+      text-align: center;
+      background-position: center;
+    }
+
+    .container button {
+      margin: 10px;
+      border-radius: 10px 10px 10px 10px;
+      background-color: #000000;
+      color: white;
+      font-size: 26px;
+      color: #F6EDBB;
+    }
+    .box {
+	height: 200px;
+    	color: #8A6733;
+    	width: 200px;
+    	background-image: url(images/rus2.jpg);
+	margin: 4px;
+	padding: 4px;
+    }
